@@ -16,7 +16,7 @@
 
 ## Getting Started
 
-被项目需要kotlin、C++能力和opengl高级编程知识。
+项目需要kotlin、C++能力和opengl高级编程知识。
 * kotlin学习网站：https://www.kotlincn.net/
 * C++学习网站：https://www.runoob.com/cplusplus/cpp-tutorial.html
 * PBR知识理论：https://learnopengl-cn.github.io/07%20PBR/01%20Theory/
