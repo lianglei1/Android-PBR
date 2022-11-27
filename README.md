@@ -3,6 +3,9 @@
 一个简单的PBR/IBL渲染器 纯 C++/OpenGL ES3实现
 
 ![image](https://github.com/lianglei1/Android-PBR/blob/main/art/device-2022-11-27-140433.png)
+![image](https://github.com/lianglei1/Android-PBR/blob/main/art/device-2022-11-27-135639.png)
+![image](https://github.com/lianglei1/Android-PBR/blob/main/art/device-2022-11-27-140000.png)
+
 
 ### Features
 * 通过HDR贴图生成cubmap贴图实现基于环境的光照，图片资源来自
