@@ -13,6 +13,8 @@
 
 * 手动调整材质贴图缩放比列和displacement 贴图高度大小。
 
+* 触摸旋转相机360°观察材质
+
 
 ## Getting Started
 
