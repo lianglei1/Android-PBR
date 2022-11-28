@@ -5,7 +5,7 @@
 ![image](https://github.com/lianglei1/Android-PBR/blob/main/art/device-2022-11-27-140433.png)
 ![image](https://github.com/lianglei1/Android-PBR/blob/main/art/device-2022-11-27-135639.png)
 ![image](https://github.com/lianglei1/Android-PBR/blob/main/art/device-2022-11-27-140000.png)
-
+参考：https://github.com/FrMarchand/pbr-material-viewer
 
 
 ### Features
