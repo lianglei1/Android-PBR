@@ -12,7 +12,6 @@ https://github.com/JoshuaSenouf/gl-engine
 
 https://github.com/ragnraok/AndroidPBR
 
-https://github.com/patriciogonzalezvivo/glslViewer
 ### 细节
 * 通过HDR贴图生成cubmap贴图实现基于环境的光照，图片资源来自
  ([hdrlabs免费资源网站](http://www.hdrlabs.com/sibl/archive.html)).
