@@ -43,12 +43,8 @@
 
 
 
-## Libraries
-
+## 依赖库
 * [glm](https://glm.g-truc.net/0.9.9/index.html) - C++ mathematics library for graphics software based on the OpenGL Shading Language (GLSL) specifications.
 * [stb-image](https://github.com/nothings/stb) - Image loading/decoding from file/memory
 
-## Author
-
-**lianlgei** - [lianlgei](https://github.com/lianglei1)
 
