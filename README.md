@@ -1,4 +1,4 @@
-# PBR Material Viewer for android
+# PBR 材质渲染器
 
 一个简单的PBR/IBL渲染器 纯 C++/OpenGL ES3实现
 
@@ -8,7 +8,7 @@
 参考：https://github.com/FrMarchand/pbr-material-viewer
 
 
-### Features
+### 细节
 * 通过HDR贴图生成cubmap贴图实现基于环境的光照，图片资源来自
  ([hdrlabs免费资源网站](http://www.hdrlabs.com/sibl/archive.html)).
 
@@ -17,7 +17,7 @@
 * 触摸旋转相机360°观察材质
 
 
-## Getting Started
+## 开始项目
 
 项目需要kotlin、C++能力和opengl高级编程知识。
 * kotlin学习网站：https://www.kotlincn.net/
@@ -29,7 +29,7 @@
 
 ![image](https://github.com/lianglei1/Android-PBR/blob/main/art/PBR%E6%B8%B2%E6%9F%93%E6%B5%81%E7%A8%8B.png)
 
-### Prerequisites
+### 配置
 
 * Android Studio  2020.3.1.RC1
 * NDK 21.2.6472646
