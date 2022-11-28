@@ -83,3 +83,9 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+/.idea/.gitignore
+/.idea/.name
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/compiler.xml
+/.idea/misc.xml
+/.idea/codeStyles/Project.xml
