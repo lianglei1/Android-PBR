@@ -7,8 +7,11 @@
 ![image](https://github.com/lianglei1/Android-PBR/blob/main/art/device-2022-11-27-140000.png)
 参考：
 https://github.com/FrMarchand/pbr-material-viewer
+
 https://github.com/JoshuaSenouf/gl-engine
+
 https://github.com/ragnraok/AndroidPBR
+
 https://github.com/patriciogonzalezvivo/glslViewer
 ### 细节
 * 通过HDR贴图生成cubmap贴图实现基于环境的光照，图片资源来自
