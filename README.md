@@ -7,6 +7,7 @@
 ![image](https://github.com/lianglei1/Android-PBR/blob/main/art/device-2022-11-27-140000.png)
 
 
+
 ### Features
 * 通过HDR贴图生成cubmap贴图实现基于环境的光照，图片资源来自
  ([hdrlabs免费资源网站](http://www.hdrlabs.com/sibl/archive.html)).
@@ -25,6 +26,8 @@
 * PBR光照：https://learnopengl-cn.github.io/07%20PBR/02%20Lighting/
 * 漫反射辐照：https://learnopengl-cn.github.io/07%20PBR/03%20IBL/01%20Diffuse%20irradiance/
 * 镜面IBL：https://learnopengl-cn.github.io/07%20PBR/03%20IBL/02%20Specular%20IBL/
+
+![image](https://github.com/lianglei1/Android-PBR/blob/main/art/PBR%E6%B8%B2%E6%9F%93%E6%B5%81%E7%A8%8B.png)
 
 ### Prerequisites
 
