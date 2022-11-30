@@ -36,7 +36,6 @@ void Scence::Init() {
     if (hasInit)
         return;
     hasInit = true;
-    //TODO 先把 model 文件夹拷贝到 /sdcard/Android/data/com.byteflow.app/files/Download 路径下，然后可以选择你要加载的模型
     std::string path(DEFAULT_OGL_ASSETS_DIR);
     std::string shaderPath = path + "/pbrshaders";
     std::string texturePath = path + "/textures";
