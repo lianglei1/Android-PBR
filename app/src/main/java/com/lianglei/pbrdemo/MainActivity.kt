@@ -54,7 +54,7 @@ class MainActivity : AppCompatActivity(), ViewTreeObserver.OnGlobalLayoutListene
                 PERMISSION_REQUEST_CODE
             )
         }
-        ///sdcard/Android/data/com.byteflow.app/files/Download
+
         val fileDir = getExternalFilesDir(Environment.DIRECTORY_DOWNLOADS)!!.absolutePath
         CommonUtils.copyAssetsDirToSDCard(this@MainActivity, "textures", fileDir)
 
